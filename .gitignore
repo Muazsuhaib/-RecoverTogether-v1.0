@@ -1,0 +1,8 @@
+GoogleService-Info.plist
+*.xcworkspace
+*.xcuserstate
+Pods/
+.DS_Store
+DerivedData/
+*.env
+Secrets/
